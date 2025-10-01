@@ -1,0 +1,14 @@
+C:\Users\Agnus Dei Gabriel\mardi_30\poly\bin\Debug\net9.0\poly.exe
+C:\Users\Agnus Dei Gabriel\mardi_30\poly\bin\Debug\net9.0\poly.deps.json
+C:\Users\Agnus Dei Gabriel\mardi_30\poly\bin\Debug\net9.0\poly.runtimeconfig.json
+C:\Users\Agnus Dei Gabriel\mardi_30\poly\bin\Debug\net9.0\poly.dll
+C:\Users\Agnus Dei Gabriel\mardi_30\poly\bin\Debug\net9.0\poly.pdb
+C:\Users\Agnus Dei Gabriel\mardi_30\poly\obj\Debug\net9.0\poly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agnus Dei Gabriel\mardi_30\poly\obj\Debug\net9.0\poly.AssemblyInfoInputs.cache
+C:\Users\Agnus Dei Gabriel\mardi_30\poly\obj\Debug\net9.0\poly.AssemblyInfo.cs
+C:\Users\Agnus Dei Gabriel\mardi_30\poly\obj\Debug\net9.0\poly.csproj.CoreCompileInputs.cache
+C:\Users\Agnus Dei Gabriel\mardi_30\poly\obj\Debug\net9.0\poly.dll
+C:\Users\Agnus Dei Gabriel\mardi_30\poly\obj\Debug\net9.0\refint\poly.dll
+C:\Users\Agnus Dei Gabriel\mardi_30\poly\obj\Debug\net9.0\poly.pdb
+C:\Users\Agnus Dei Gabriel\mardi_30\poly\obj\Debug\net9.0\poly.genruntimeconfig.cache
+C:\Users\Agnus Dei Gabriel\mardi_30\poly\obj\Debug\net9.0\ref\poly.dll
